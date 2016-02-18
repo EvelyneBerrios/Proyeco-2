@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453329808 source:c:\users\dell\documents\progra\programa2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
